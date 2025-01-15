@@ -19,7 +19,9 @@ public class Ahorroeconomico {
      ahorrom=ingreso-gasto;
      ahorroa=ahorrom*12;
      //salida de datos
+     System.out.println("Resutados de la aplicación");
      System.out.println("Ahorro mensual:"+ahorrom);
      System.out.println("Ahorro anual:"+ahorroa);
+     
   }  
 }
